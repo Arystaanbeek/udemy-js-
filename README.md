@@ -1,2 +1,2 @@
 # udemy-js-
-This repo for javascript cours in udemy
+Этот репозитории создан для прохождения курса от Ивана Петриченко по программированию на языке JavaScript.
